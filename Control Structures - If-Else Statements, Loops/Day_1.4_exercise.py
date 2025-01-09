@@ -72,3 +72,5 @@ while True:
       print('The correct number is higher than',Num)    
   
 print(CorrectNum,'is a correct number !')
+
+#new
