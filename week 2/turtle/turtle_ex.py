@@ -12,15 +12,15 @@ sally.color('blue')
 
 john.penup()
 john.goto(-160, 100)
-john.pendown
+john.pendown()
 
 bob.penup()
 bob.goto(-160, 70)
-bob.pendown
+bob.pendown()
 
 sally.penup()
 sally.goto(-160, 100)
-sally.pendown
+sally.pendown()
 
 for movement in range (100):
     john.forward(randint(1,5))
