@@ -1,3 +1,4 @@
+#Day 1.4 Samuel Ng
 #If Statement
 #Exercise 1: Check if the number is even.
 num = 6
@@ -64,7 +65,7 @@ while True:
   Num= int(input("Guessing a number: ") )
   if Num == CorrectNum:
     break
-  if num>= CorrectNum:
+  if Num>= CorrectNum:
       print(Num,'is a wrong number, try again ')
       print('The correct number is smaller than',Num)
   else :
@@ -73,4 +74,3 @@ while True:
   
 print(CorrectNum,'is a correct number !')
 
-#new test
