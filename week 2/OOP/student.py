@@ -17,3 +17,4 @@ old_student = Student('Dan' ,18, 'A' ,164)
 
 
 print(new_student)
+print(old_student)
